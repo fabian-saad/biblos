@@ -1,0 +1,4 @@
+*.o
+biblos
+.vscode
+api_all/
