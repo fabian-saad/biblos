@@ -9,7 +9,7 @@
 static void print_usage(FILE *stream, const char *program)
 {
     fprintf(stream,
-            "Usage: %s [-e|-r] [-t translation]... [-v] passage...\n"
+            "Usage: %s [-e] [-r] [-t translation]... [-v] passage...\n"
             "       %s -h\n"
             "       %s -T\n",
             program, program, program);
