@@ -158,3 +158,13 @@ To remove the compiled files:
 ```bash
 make clean
 ```
+
+## Data Sources
+
+The Bible texts included with Biblos are provided by the [Free Use Bible API](https://bible.helloao.org/) by AO Lab.
+
+The Free Use Bible API provides Bible translations in JSON format. The API itself is licensed under the MIT License. Individual Bible translations may have their own licensing terms, which are specified by the respective translation providers.
+
+Biblos does not claim ownership of the Bible texts. The copyright and licensing terms of each translation remain with their respective copyright holders.
+
+For more information about the API and the licensing of individual translations, see the [Free Use Bible API documentation](https://bible.helloao.org/docs/) and the [API reference](https://bible.helloao.org/docs/reference/).
